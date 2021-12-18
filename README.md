@@ -1,5 +1,5 @@
 # Pommerman
-Pommerman agent and analysis code
+Pommerman Game analysis code
 
 We developed a Java agent for Pommerman, you can find that in the Pommerman-java_agent repo.
 

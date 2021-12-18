@@ -8,3 +8,6 @@ Within each agent (mode_setting) folder, you can find the
 4. Game plots - a plot designed to describe each individual game
 5. Bar graphs - that aggregate the 50 games
 6. Final analysis - that aggregates all the agents
+
+
+Currently unable to upload due to the large size of the data
